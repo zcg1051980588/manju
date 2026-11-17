@@ -1,0 +1,28 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 本地素材与产物（体积大，不入库）
+assets/raw/
+output/
+dist/
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.rar
+*.7z
+downloads/
+
+# 插件包是仓库内容，需要纳入版本管理
+!plugins/*.zip
+!plugins/*.rar
+
+# 本地私密配置
+.env
+*.local
+config.local.*
