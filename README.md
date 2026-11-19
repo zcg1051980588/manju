@@ -23,6 +23,10 @@
   </tr>
 </table>
 
+<h3><a href="https://kcnq548hyend.feishu.cn/wiki/SCvKwaNKGifCzhkSxt7cnXEOn2f">📘 无算力生成 AI 漫剧 · 完整教程（点此打开飞书文档）→</a></h3>
+
+<p>字字动画软件安装 · 豆包插件与管理器 · 无算力出视频试用教程 · AI 爆款剧本方法与提示词模板</p>
+
 <p><strong>微信（联系 v）：<code>aoligei9952</code></strong><br />
 二维码失效、或想直接咨询，加这个微信拉你进群</p>
 
